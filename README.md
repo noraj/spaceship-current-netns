@@ -6,17 +6,6 @@
 <h4 align="center">
   A <a href="https://man7.org/linux/man-pages/man8/ip-netns.8.html" target="_blank">Current network namespace</a> section for Spaceship prompt
 </h4>
-
-<p align="center">
-  <a href="https://github.com/noraj/spaceship-current-netns/releases">
-    <img src="https://img.shields.io/github/v/release/noraj/spaceship-current-netns.svg?style=flat-square"
-      alt="GitHub Release" />
-  </a>
-
-  <a href="https://github.com/noraj/spaceship-current-netns/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/spaceship-prompt/spaceship-gradle/ci.yaml?style=flat-square"
-      alt="GitHub Workflow Status" />
-  </a>
 </p>
 
 ## Installing
